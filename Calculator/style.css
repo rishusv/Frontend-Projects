@@ -1,3 +1,22 @@
+@media (max-width: 500px) {
+    .calculator {
+        width: 95vw;
+        max-width: 360px;
+        padding: 10px;
+    }
+    input {
+        width: 90vw;
+        max-width: 320px;
+        font-size: 1rem;
+        padding: 10px;
+    }
+    button {
+        width: 48px;
+        height: 48px;
+        font-size: 0.9rem;
+        margin: 6px;
+    }
+}
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
 
 *{
